@@ -2,7 +2,7 @@
 
 First attempt to build a Flappy Bird game.
 
-Load the project on IntelliJ IDEA on Windows.
+Load the project on Android Studio on Windows.
 
 Wait for Gradle to build. Don't run before it finishes.
 
