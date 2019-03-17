@@ -6,7 +6,7 @@ Load the project on Android Studio on Windows.
 
 Wait for Gradle to build. Don't run before it finishes.
 
-It should probably have some graddle issues since it used an old version of Adroid Studio at time of craeation, but it can be ignored.
+It should probably have some Gradle issues since it used an old version of Adroid Studio at time of craeation, but it can be ignored.
 
 Run 'Desktop' and the game will load in a window (Windows OS only).
 
